@@ -124,7 +124,7 @@ function set2arr(key, value) {
 
 module.export = {
   node,
-  get_node,
+  get_nodes,
   compute_depth,
   find,
   build_tree
