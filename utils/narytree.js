@@ -3,7 +3,6 @@
 const fs = require('fs');
 
 const util = require('util');
-const list = require('./tanzania.villages.json');
 
 function node(name, children = new Set()) {
   this.name = name;
@@ -26,11 +25,38 @@ function find(root, name) {
   return null;
 }
 
+function compute_depth(root) {
+  if (!root) {
+    return 0;
+  }
+  const depths = [];
+  for (const child of root.children) {
+    depths.push(compute_depth(child));
+  }
+  
+  // use height of the longest child
+  const max_depth = depths.reduce((max, curr) => Math.max(max, curr), -1) + 1;
+  return max_depth;
+}
+
+function get_nodes(root, level, res = []) {
+  if (root == null || root.empty()) return null;
+  if (level === 0) {
+    // retrieve data for the nodes
+    for (const child of root.children) {
+      res.push({ name: child.name });
+    }
+    return res;
+  }
+  for (const child of root.children) {
+    get_nodes(child, level - 1, res);
+  }
+}
 
 function insert_node(root, data) {
    // find region
    const region = find(root, data.region);
-  
+
    if (region != null) {
     // find district
     const district = find(region, data.district);
@@ -89,12 +115,17 @@ function build_tree(title, list) {
   return root;
 }
 
-const tree = new build_tree('Tanzania Republic of', list.slice(0, 10));
-// console.log(util.inspect(tree, false, null, true));
-for (let i = 0; i <= 2; i++) {
-  console.log(util.inspect(tree.children[i], false, null, true));
+function set2arr(key, value) {
+  if (typeof value === 'object' && value instanceof Set) {
+    return [...value];
+  }
+  return value;
 }
 
-const file = fs.createWriteStream('./organized.json', 'utf8');
-file.write(JSON.stringify(tree));
-file.end();
+module.export = {
+  node,
+  get_node,
+  compute_depth,
+  find,
+  build_tree
+};
