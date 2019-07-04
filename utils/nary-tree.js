@@ -3,6 +3,7 @@
 const Node = require('./node');
 const _ = require('lodash');
 const {inspect} = require('util');
+const data = require('../tanzania.villages.json');
 
 function NaryTree(title, orderedLabels, root=null) {
   this.title = title;
@@ -41,19 +42,47 @@ function NaryTree(title, orderedLabels, root=null) {
   };
 }
 
+NaryTree.prototype.depth = function(node) {
+  const _depth = (node) => {
+    if (!node) {
+      return 0;
+    }
+    const depths = node.children.map(node => this.depth(node));
+    return depths.reduce((max, curr) => Math.max(max, curr), 0) + 1;
+  }
+  return _depth(node || this.root);
+};
+
+NaryTree.prototype.getData = function(level) {
+  // Get tree component at the given level
+  const _getData = (node, l, res) => {
+    if (!node) return null;
+    if (l === 1) {
+      res.push(node.data);
+      return;
+    }
+    node.children.forEach(child => _getData(child, l - 1, res));
+  };
+  const res = [];
+  _getData(this.root, level, res);
+  return res;
+};
+
 NaryTree.fromDataSet = function(title, dataSet, order, matcher) {
   const instance =  new NaryTree(title, order);
-  instance.buildNodes(dataSet, order, matcher);
+  instance.buildNodes(dataSet, matcher);
   return instance;
 };
 
 const tree = NaryTree.fromDataSet('Tanzania Republic Of',
-  [{region: 'Dar-es-Salaam', district: 'Kinondoni', ward: 'Ubungo', village: 'Sinza A'},
-   {region: 'Dar-es-Salaam', district: 'Kinondoni', ward: 'Ubungo', village: 'Sinza B'},
-   {region: 'Dar-es-Salaam', district: 'Kinondoni', ward: 'Ubungo', village: 'Sinza C'},
-   {region: 'Dodoma', district: 'Dodoma City Council', ward: 'Chamwino', village: 'Chamwindo Mwisho'}],
+  data, ['region', 'district', 'ward', 'village'],
   (data) => (node) => {
       return node.data === data;
   }
 );
-console.log(JSON.stringify(tree));
+
+console.log(`Depth = ${tree.depth()}`);
+
+// console.log(JSON.stringify(tree));
+
+console.log(JSON.stringify(tree.getData(2)));
