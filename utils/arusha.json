@@ -1,0 +1,6741 @@
+[
+  {
+    "metadata": {
+      "type": "node",
+      "label": "region"
+    },
+    "data": "Arusha Region",
+    "children": [
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Arusha City Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Baraa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sorenyi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Siara Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ofisini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mferejini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kwa Mrefu Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiroshi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya Chupa Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Elkirouwa Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Daraja II Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ali Nyanya Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Darajani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Jamhuri Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "KatI Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ndarvoi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sanare Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Elerai Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Azimio Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Burka Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kware Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo A Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo B Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mama Musa Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngurumo Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Remtula Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sacon Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Samanga Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shamsi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shuma Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Urundini Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Engutoto Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block C1 Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block C2 Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block D Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block F Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block H Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Block J Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlimani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olarash Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sinoni/Ngarash Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kaloleni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Custom Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Danida Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kalimani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaloleni Magharibi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaloleni Mashariki Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaloleni Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaloleni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo Mapya Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migombani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mita 200 Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Msikitini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nello Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shilangaa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Vumilia Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kati Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bondeni Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Pangani Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kimandolu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kijenge Kaskazini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kijenge Kusini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kitiangare Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tindigani Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lemara Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkirouwa Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kikwakwaru A Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kikwakwaru B Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Korongoni Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemara Kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olepholos Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shalom-Clinic - Dental Clinic",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sunflag Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Levolosi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mtaa wa Levolosi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Zebra Eye-Clinic - Eye Clinic",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Moivaro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endonyoemasi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moivaro kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moshono kaskazini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngurumaus Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sekei Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shangarao Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Moshono Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engosowash Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kalimaji Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Laizer Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "LosirwayLaizer Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moshono kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mtoni Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nanja Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkereyan kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "T.Packers Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Muriet Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bondeni Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Eluanyi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Embararwai Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "FFU Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mashariki Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlimani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Msasani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Murieti Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nadosoito kusini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngorienito Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyokumur Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ngarenaro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Darajani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya fisi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mita 200 Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "NHC Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "TCA Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olasiti Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Burka Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kimindorosi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olasiti Centre Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkereyan Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloresho Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olteves Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olmoti Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mirongoine Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlimani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "NAFCO Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngaramtoni ya chini Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmoti Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oloirien Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbeshere Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meiroti Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moivoi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mwanama Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "R.C Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Suye Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olorien Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mringa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olorien Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olosiva Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Osunyai Jr Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "JR Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kirika B Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngusero Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Osunyai Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sakina Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Giriki Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mairiva Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Melamari Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Navarana Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmatejo B Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmatejoo A Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sakina Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sekei Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Goliondoi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mtaa wa AICC Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mtaa wa Mahakamani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naura Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naurei Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sanawari Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sinoni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engosengiu Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makao Mapya Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migungani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlimani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olevolos Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oljanvutian Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olomokeya Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sokon I Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kanisani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lolovono Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Longdong Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Madukani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Murriet Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldadai Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sainevuno Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sombetini Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Banda Mbili Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kirika A Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olamurraki Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Simanjiro Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Terrat Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bondeni Kati Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engavunet Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engonongoi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Erangau Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Imitong'wa Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "laitayok Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loswaki Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maskiria Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olepolosi Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkungu Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Terrat Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Themi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "AICC Flats Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Corridor Area Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambarage Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Old Police Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Themi Mashariki Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Unga Ltd Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Darajani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Esso Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makaburi ya Baniani Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Osterbay Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tindiga Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Viwandani Mtaa",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Arusha District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Bangata Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bangata Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Midawe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sasi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Bwawani Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kigongoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kipoka Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kitete Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maendeleo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mianzini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mkapa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mungushi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Railway Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Themi ya Simba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Uhuru Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ilboru Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meretu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oltulelei Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ilkiding'a Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkiding'a Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkisongo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloigeruno Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kimnyaki Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kimnyaki Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmuringaringa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olovolos Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kiranyi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkiurei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiranyi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Namayana Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Siwandeti Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kisongo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engorora Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkerin Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lesiraa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lovilukuny Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kiutu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engorika Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naurei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olgilai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sekei Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Laroi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Enjoro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisima Cha Mungu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Laroi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lemanyata Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemanyata Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lenjani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkokola Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mateves Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemugur Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngorbob Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mlangarini Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiserian Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Manyire Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlangarini Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Moivo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkilolorit Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moivo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloresho Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oltulelei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sama Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Musa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Likamba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nengung'u Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olchorovus Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloitushula Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mwandet Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engalaoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engurtoto Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Imbibia Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Losikito Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nduruma Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Chamhunda Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Chankamba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Halwego Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kameya Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maji Moto Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Marurani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mukunu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nduruma Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Samaria Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oldonyosambu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Jema Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemanda Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemong'o Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyosambu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oldonyowass Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engutukoit Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Losinoni juu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Losinoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyowass Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oljoro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbuyuni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mirongoine Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oljoro Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olkokola Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkurot Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lengijave Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkejulenderit Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olmotonyi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Emaoi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngaramtoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmotony Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olturoto Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkirevi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kivulul Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyosapuk Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Osunyai Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olturumet Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ekenywa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkiushini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Seuri Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sambasha Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sambasha Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shimboro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Timbolo Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sokon II Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngires Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldadai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sokon II Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Tarakwa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Saitabau Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tarakwa Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Karatu District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Baray Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Dumbechand Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endesh Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Jobaj Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Matala Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbuga Nyekundu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Qangdend Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Buger Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ayalaliyo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Buger Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endonyawet Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Daa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Changarawe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endashangwet Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makhoromba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mang'ola Juu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Endabash Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endabash Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endagem Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kinihhe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kosi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Qaru Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Endamaghang Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endamaghang Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mikocheni Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Endamarariek Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bassodawish Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endallah Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endamarariek Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Getamock Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Gidbasso Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Khusumay Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mahhahha Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Masabeda Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shangit Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ganako Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ayalabe Kaskazini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ayalabe Kusini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ayalabe Magharibi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ayalabe Mashariki Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ganako Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Haymu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Huduma Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya Nyoka Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilimani Mashamba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilimani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiwandani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngorongoro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sabato Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tloma Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kansay Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya Faru Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kansay Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Laja Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ng'aibara Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Umbangw' Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Karatu  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Barazani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bomani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kati Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maliasili Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mangafi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Manyara Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mazingira Bora Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "NMC Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Slahhamo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "TFA Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mang’ola Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Laghangareri Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maleckchand Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mang'ola Barazani Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mbulumbulu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya Simba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kitete Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lositete Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Slahhamo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Upper Kitete Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oldeani Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiwanja Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldeani Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Qurus Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bashay Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Doffa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Gendaa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Gongali Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Gyekrum Lambo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Qorong'aida Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Qurus Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Rhotia Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Chemchem Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Huduma Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kainam Rhotia Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilimamoja Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilimatembo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Marera Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Rhotia Kati Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Longido District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Elang’atadapash Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Elang'tadapash Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olchoronyokye Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sokon Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Engarenaibor Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Karao Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kimwati Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mairowa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngoswak Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sinonik Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Engikaret Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engikaret Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiserian Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Gelai Lumbwa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Alaililai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilchangitsapukin Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lumbwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Wosiwosi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Gelai Meirugoi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loondolwo/Esirwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Magadini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meirugoi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ilorienito Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilorienito Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Losirwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nadaare Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kamwanga Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Irkaswa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kamwanga Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kitenden Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ketumbeine Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Armanie Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engushai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lopolosek Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orkejuloongishu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kimokouwa Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Eworendeke Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kimokouwa Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Longido Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Longido Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Matale A Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Matale A Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Matale B Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mundarara Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lesing̩ita Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mundarara Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orgira Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orpurkel Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Namanga Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Buguruni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisongo B Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisongo C Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisongo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makao mapya Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlimani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mtaa wa saba Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Noondoto Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engusero Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Noondoto Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olmolog Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Elerai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lerang'wa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olmolog Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Orbomba Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oltepesi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orbomba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ranchi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sinya Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Endonyemali Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ildonyio Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Leremeta Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Tingatinga Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngereyani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tingatinga Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Meru District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Akheri  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Akeri Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nguruma Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Patandi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ambureni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ambureni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shangarai Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Imbaseni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Imbaseni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiwawa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngongongare Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kikatiti Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kikatiti Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nasholi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngyeku Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sakila Chini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sakila Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kikwe Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Karangai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kikwe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maweni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nambala Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "King'ori Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "King'ori Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mareu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mboreny Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Muungano Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoanoel Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoansiyo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nsengony Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyangiro Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Leguruki Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kandashe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Leguruki Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Miririny Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoasenga Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Majengo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engatani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kalanje Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaloleni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo ‘A’ Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo ‘C’ Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo Kati Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Majengo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migombani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Muungano Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Maji ya chai Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kitefu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lerai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maji ya chai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngurdoto Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Makiba Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makiba Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Patanumbe Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Valeska Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Malula Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kolila Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Malula Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngejusosia Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nrumangeny Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Maroroni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kwaugoro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maroroni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migandini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Samaria Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Maruvango Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maruvango Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbaaseny Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mouwara Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shishtony Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mbuguni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kikuletwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbuguni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mikungani Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ngabobo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngabobo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oltepes Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tank Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ngarenanyuki Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ilkrumun Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olkung'wado Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nkoanekoli Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoanekoli Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkure Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sangananu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nkoanrua Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kipande Nkoavele Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loita Nkoamala Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoanrua Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nkoaranga Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngyani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoaranga Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nshupu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nkoarisambu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kimundo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mfulony Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nkoarisambu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Poli Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ndatu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Njoro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Poli Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Seela Sing'isi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Malala Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Seela Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sing'isi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Shambarai Burka Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kambi ya Tanga Juu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kerikenyi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Msitu wa Mbogo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Shambarai Burka Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Songoro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilinga Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mulala Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Songoro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sura Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Urisho Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ushili Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Usariver Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kwa Kisambare Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Magadini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Magadirisho Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Manyata Kati Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mji Mwema Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mlima Siyoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nganana Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngaresero Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Usa Madukani Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Uwiro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisimiri Chini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisimiri Juu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Uwiro Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Monduli District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Engaruka  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engaruka Chini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engaruka Juu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyo Lengai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Rerendeni Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Esilalei Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Baraka Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Esilalei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Losirwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mungere Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oltukai Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lashaine Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lashaine Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orkeswa Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lemooti  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lemooti Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Longoolwa A Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyo Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lepurko Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "En'garooji Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lepurko Shuleni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loosimingor Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nanja Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Lolkisale Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lolkisale Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nafco Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tukusi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Makuyuni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makuyuni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbuyuni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naiti Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Meserani Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meserani Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meserani Juu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mfereji Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Emurua Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Idonyonaado Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Komesha Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mfereji Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Migungani  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kigongoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migungani A Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Migungani B Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Moita Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kilimatinde Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kiloriti Kipok Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loolera Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moita Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Moita Kiloriti Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Monduli juu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Eluai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Emairete Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Enguiki Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Monduli Mjini Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Rerendeni Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mswakini  Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mswakini Chini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mswakini Juu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naitolia Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Mto wa Mbu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Barabarani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Jangwani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisutu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Magadini Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Naalarami Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engorika Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lengiloriti Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naalarami Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Selela Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbaash Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Selela Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sepeko Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Arkaria Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Arkatan Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lendikinya Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mti Mmoja Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "type": "node",
+          "label": "district"
+        },
+        "data": "Ngorongoro District Council",
+        "children": [
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Alailelai Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Alailelai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bulati Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sendui Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Alaitolei Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Alaitolei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engeshei Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Esere Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Arash Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Arash Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mbuken Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olalaa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ormanie Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Digodigo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Digodigo Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Enduleni Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Enduleni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nasporioong Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Engaresero Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Engaresero Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Enguserosambu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Enguserosambu Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naan Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ng'arwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orkiu Juu Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Eyasi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Masumburai Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olpiro Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kakesio Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kakesio Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Osinoni Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Kirangi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kisangiro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mugholo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Tinaga Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Maalon Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loosoito Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Maalon Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngobereti Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloswashi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Malambo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Benki Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Gitoya Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Madukani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Malambo Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Malambo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngashanda Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sima Juu Mtaa",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Voda Mtaa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Misigyo Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kaitakiteng Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Longoojo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Misigyo Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Nainokanoka Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Irkeepus Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Nainokanoka Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olchamiolock Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Naiyobi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Itulele Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kapenjiro Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Naiyobi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ngoile Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ngoile Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ngorongoro Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kayapusi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mokilal Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloirobi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olbalbal Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Meshili Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Oloipiri Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oloipiri Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sukenya Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Ololosokwan Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mairowa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Njoroi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ololosokwan Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Olorien/Magaiduru Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Magaiduru Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Oldonyowas Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Olorien Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Wasso Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Orgosorok Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Bwawani Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kapongoni Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Lekodya Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loliondo Magharibi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Loliondo Mashariki Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Makalasinga Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Ndipilikwa Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Njorwetin Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Orkiu Chini Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Wasso Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Pinyinyi Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Pinyinyi Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Piyaya Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kesile Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Piyaya Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Sale Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Sale Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Samunge Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mageri Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mugongo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Samunge Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Yasimdito Village",
+                "children": []
+              }
+            ]
+          },
+          {
+            "metadata": {
+              "type": "node",
+              "label": "ward"
+            },
+            "data": "Soitsambu Ward",
+            "children": [
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Kirtalo Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Mondorosi Village",
+                "children": []
+              },
+              {
+                "metadata": {
+                  "type": "node",
+                  "label": "village"
+                },
+                "data": "Soitsambu Village",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

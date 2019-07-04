@@ -2,7 +2,8 @@
 
 const {inspect} = require('util');
 
-function Node(data, ...children) {
+function Node(metadata, data, ...children) {
+  this.metadata = metadata;
   this.data = data;
   this.children = children;
 }
@@ -35,7 +36,9 @@ Node.prototype.findFirstMatch = function(predicate) {
 
 Node.prototype.findAllMatches = function(predicate) {
   function _collectMatches(node, res=[]) {
+    
     const matched = predicate.apply(null, [node]);
+    
     if (matched) {
       res.push(node);
     }
