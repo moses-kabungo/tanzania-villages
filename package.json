@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/babajosh/tanzania-villages#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^7.11.0"
   }
 }
